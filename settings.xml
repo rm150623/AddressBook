@@ -1,0 +1,7 @@
+<servers>
+        <server>
+            <id>MyNexusSnapshot</id>
+            <username>admin</username>
+            <password>admin</password>
+        </server>
+</servers>
